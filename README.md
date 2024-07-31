@@ -53,6 +53,12 @@ Users should be able to:
 
 So much. Where to start? Definitely want to take on some more complex projects. And begin to include either a css preprocessor, multiple pages, or more JavaScript. Or maybe just more complex layouts that will need to be flexible for different screen sizes.
 
+I'm rethinking my solution for the image in the product preview card. I used CSS background images, but the more I think about it, I think it might have been better to use an actual HTML img element that is responsive. I liked considering [this alternative solution](https://www.frontendmentor.io/solutions/mobile-first-html-css-with-flexbox-V5mSfk2iDj) that still uses CSS but has an HTML element for the image. It has a much smoother transition between screen sizes than my clunky solution, making using of flexbox very nicely. So I think combining that solution with a responsive image might work well. Worth a try.
+
+In addition to responsive images, I also want to better incorporate [more powerful techniques for fluid typography](https://www.frontendmentor.io/learning-paths/building-responsive-layouts--z1qCXVqkD/steps/669710ac85c9917334f60eb0/article/read) than what I've been doing. I have been focused on matching the design file, but there is probably a better learning result from using the more powerful techniques even if that lowers the exact match to the design.
+
+I'm also looking more carefully at the design and trying to get a more sophisticated "design eye". Is there a box shadow behind the preview card? Even if not, it might be worth adding a subtle one anyway to just practice that.
+
 ### Useful resources
 
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web) - Of course, as always. So useful.
