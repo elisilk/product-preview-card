@@ -46,35 +46,12 @@ Users should be able to:
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-
-```js
-const proudOfThisFunc = () => {
-  console.log("🎉");
-};
-```
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
+- [CSS background images](https://developer.mozilla.org/en-US/docs/Web/CSS/background) - Used this to embed the product preview images in the background of the product preview container.
+- [Alignments in flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout/Aligning_items_in_a_flex_container) - Continuing to learn about flexbox and how to make use of the various properties to control alignment of the flex items.
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+So much. Where to start? Definitely want to take on some more complex projects. And begin to include either a css preprocessor, multiple pages, or more JavaScript. Or maybe just more complex layouts that will need to be flexible for different screen sizes.
 
 ### Useful resources
 
