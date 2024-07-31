@@ -119,6 +119,7 @@ main {
 .product__addbtn:active,
 .product__addbtn:hover {
   background-color: var(--clr-darker-cyan);
+  cursor: pointer;
 }
 
 .product__addbtn-icon {
